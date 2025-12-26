@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Học vỡ lòng. 
 
-### More Information
+Không biết tiếng Anh. 
 
-A place to include any other types of information that you'd like to include about yourself.
+Học cách dùng Github để chia sẻ code khỏi lãng phí. 
+
+Chương trình được tạo ra bởi AI. 
+
+Chỉ biết dùng Code::Blocks
 
 ### Contact me
+[X_Twitter](https://x.com/roboe_inlife)
 
-[email@domain.com](mailto:email@domain.com)
+[Youtube](https://www.youtube.com/@RoboE_Life)
+
+[email@domain.com](roboeinlife@gmail.com)
