@@ -11,7 +11,7 @@ Mọi chuyện bắt đầu từ cậu con trai học lớp 11 của tôi. Nhữ
 
 Giờ con không dùng máy cũ nữa, tôi dùng nó làm video YouTube. Thấy còn Code::Blocks, tôi nghĩ: "Sao mình không thử học luôn cho khỏi phí?".
 
-Ngày nay, AI đã trở nên tiên tiến và có thể giúp viết các chương trình. Sau một thời gian làm quen, tôi thấy chỉ cất giữ code trong máy mình thì hơi lãng phí. Thế là tôi nhờ DeepSeek dạy cách dùng GitHub để chia sẻ.
+Ngày nay, AI đã trở nên tiên tiến và có thể giúp viết các chương trình. Sau một thời gian làm quen, tôi thấy chỉ cất giữ code trong máy mình thì hơi lãng phí. Thế là tôi nhờ DeepSeek và Grok dạy cách dùng GitHub để chia sẻ.
 
 ## 🎮 Dự án của tôi
 - **[Gimball Ski Noel - Phiên Bản PRO](https://github.com/roboeinlife-glitch/gimball-ski-game)**: Một game trượt tuyết Giáng Sinh vui nhộn viết bằng C++ & SFML. *(Đây là mã nguồn, cần biên dịch để chơi)*
